@@ -1,0 +1,19 @@
+{
+  "name": "josephshambrook",
+  "version": "1.0.0",
+  "description": "Theme for my website, running on Anchor.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephshambrook/josephshambrook-anchor.git"
+  },
+  "author": "Joseph Shambrook",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josephshambrook/josephshambrook-anchor/issues"
+  },
+  "homepage": "https://github.com/josephshambrook/josephshambrook-anchor#readme"
+}
