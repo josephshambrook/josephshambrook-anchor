@@ -1,0 +1,5 @@
+Theme name:    JosephShambrook
+Description:   Front End Developer based in London, UK.
+Author name:   Joseph Shambrook
+Author site:   http://josephshambrook.com
+License:       http://licence.visualidiot.com
